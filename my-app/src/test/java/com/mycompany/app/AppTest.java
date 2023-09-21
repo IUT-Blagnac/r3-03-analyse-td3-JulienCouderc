@@ -32,3 +32,4 @@ public class AppTest extends TestCase
         assertEquals("Hello World! juju", App.hello());
     }
 }
+

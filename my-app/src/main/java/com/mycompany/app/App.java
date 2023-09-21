@@ -1,4 +1,4 @@
-package com.iutblagnac.r303trace;
+package com.mycompany.app;
 
 /**
  * Hello world!
